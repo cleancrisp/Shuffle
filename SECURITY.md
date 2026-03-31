@@ -9,7 +9,7 @@ Shuffle is now live in version 1.0.0, but we aim to support older version with c
 | >=0.9.0   | :white_check_mark: |
 | < 0.9.0   | :x:                |
 
-## Reporting a Vulnerability.
+## Reporting a Vulnerability
 
 Reporting a vulnerability can either be done to [support@shuffler.io](mailto:support@shuffler.io) or [through the contact page on our website](https://shuffler.io/contact)
 
